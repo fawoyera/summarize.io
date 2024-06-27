@@ -23,7 +23,7 @@ Summarize.io is a research article summarization tool for graduate school studen
 * Run: `./summarize.io <filename.pdf>`
 
 ## Authors
-Oluwafemi Awoyera - [Github] (https://github.com/fawoyera) / [X] (https://x.com/femiawoyera) / [LinkedIn] (https://linkedin.com/in/femiawoyera/)
+Oluwafemi Awoyera - [Github](https://github.com/fawoyera) / [X](https://x.com/femiawoyera) / [LinkedIn](https://linkedin.com/in/femiawoyera/)
 
 ## License
 Public Domain.
