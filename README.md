@@ -1,0 +1,1 @@
+Summarize.io is a research article summarization tool for graduate school students and researchers that generates a quick snapshot of the key ideas, methodology, results and conclusion of research papers.
