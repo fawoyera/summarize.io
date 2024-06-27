@@ -21,3 +21,9 @@ Summarize.io is a research article summarization tool for graduate school studen
 * Clone this repository: `git clone "https://github.com/fawoyera/summarize.io.git"`
 * Access the summarize.io directory
 * Run: `./summarize.io <filename.pdf>`
+
+## Authors
+Oluwafemi Awoyera - [Github] (https://github.com/fawoyera) / [X](https://x.com/femiawoyera)
+
+## License
+Public Domain.
